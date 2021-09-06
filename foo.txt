@@ -1,7 +1,7 @@
 A
+HOGE
+PIYO
 B
-<<<<<<< HEAD
 C
-=======
 D
->>>>>>> new-branch-2
+E
